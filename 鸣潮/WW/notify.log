@@ -1,0 +1,63 @@
+ERROR: Missing LoaderGlobalNameHashes chunk
+FIOStoreFileSystem::LoadGlobalContainer <- TokArchive <- RegisterGameFile: E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2\APK2\Content\Paks/pakchunk0-Windows.pak <- ScanGameDirectory <- appSetRootDirectory: dir=E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2\APK2\Content\Paks <- Main: umodel_build=1579 based
+
+ERROR: Missing LoaderGlobalNameHashes chunk
+FIOStoreFileSystem::LoadGlobalContainer <- TokArchive <- RegisterGameFile: E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2\APK2\Content\Paks/pakchunk0-Windows.pak <- ScanGameDirectory <- appSetRootDirectory: dir=E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2\APK2\Content\Paks <- Main: umodel_build=1579 based
+
+ERROR: assertion failed: CompressionMethodIndex >= 0 && CompressionMethodIndex <= 4
+
+File <- Directory <- BuildFullDirectory <- FPakVFS::LoadPakIndex <- FPakVFS::ReadDirectory: PakVer=12.0 <- RegisterGameFile: D:\wuwa\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks/pakchunk0-WindowsNoEditor.pak <- ScanGameDirectory <- appSetRootDirectory: dir=D:\wuwa\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks <- Main: umodel_build=1579 based
+
+
+******** Loading object MaterialInstanceConstant'MI_MAIN_Decal.MI_MAIN_Decal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object Material3'M_CharaDecal.M_CharaDecal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object MaterialInstanceConstant'MI_MANPU_DECAL.MI_MANPU_DECAL' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object Material3'M_CharaDecal.M_CharaDecal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object MaterialInstanceConstant'MI_MANPUDETAIL_DECAL.MI_MANPUDETAIL_DECAL' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object Material3'M_CharaDecal.M_CharaDecal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object MaterialInstanceConstant'MI_MANPUDETAIL_DECAL.MI_MANPUDETAIL_DECAL' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object Material3'M_CharaDecal.M_CharaDecal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object MaterialInstanceConstant'MI_MAIN_Decal.MI_MAIN_Decal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object MaterialInstanceConstant'MI_MAIN_Decal.MI_MAIN_Decal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+
+******** Loading object Material3'M_CharaDecal.M_CharaDecal' ********
+
+unknown member BLEND_X2Multiply of enum EBlendMode
+ERROR: Missing LoaderGlobalNameHashes chunk
+FIOStoreFileSystem::LoadGlobalContainer <- TokArchive <- RegisterGameFile: E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2/APK2/Content/Paks/pakchunk0-Windows.pak <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- appSetRootDirectory: dir=E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 <- Main: umodel_build=1579 based
+
+ERROR: Missing LoaderGlobalNameHashes chunk
+FIOStoreFileSystem::LoadGlobalContainer <- TokArchive <- RegisterGameFile: E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2/APK2/Content/Paks/pakchunk0-Windows.pak <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- appSetRootDirectory: dir=E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 <- Main: umodel_build=1579 based
+
+ERROR: Missing LoaderGlobalNameHashes chunk
+FIOStoreFileSystem::LoadGlobalContainer <- TokArchive <- RegisterGameFile: E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2/APK2/Content/Paks/pakchunk0-Windows.pak <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- ReadDir <- ScanGameDirectory <- appSetRootDirectory: dir=E:\SteamLibrary\steamapps\common\Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 <- Main: umodel_build=1579 based
+
