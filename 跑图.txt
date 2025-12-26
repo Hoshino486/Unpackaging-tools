@@ -1,0 +1,120 @@
+【CS2優戶逃跑】插件单机泡门 9.26 CS2ZE跑图
+
+1.# [steam\steamapps\common\Counter-Strike Global Offensive
+\game\csgo】的‘gameinfo.gi’文件复制到桌面备份好。
+
+2.将【单机跑图包】里面的所有文件复制到【steam\steamapps\common
+\Counter-Strike Global Offensive\game\csgo】,有替换选择替换。
+
+3.启动项加【-insecure】
+
+4.启动UU加速器,加速国服CS2。
+
+5.启动steam进入CS2创意工坊订阅需要跑图的地图。
+
+6. 进入国际服CS2→点击创意工坊→进入地图。
+
+7.输入【跑图指令】
+sv_cheats 1; mp_warmup_offline_enabled false; mp_roundtime_defuse 60; mp_maxrounds 30; mp_ignore_round_win_conditions 1; mp_team_intro_time 0; mp_freezetime 0; mp_restartgame "1"; bot_kick; bot_stop 1; mp_autoteambalance 0; mp_limitteams 8; mp_autokick 0; sv_alltalk 1; mp_maxmoney 999999; mp_startmoney 999999; mp_buytime 999999; mp_buy_anywhere 1;sv_regeneration_force_on true; buddha 1; sv_infinite_ammo 1; ammo_grenade_limit_total 5;sv_grenade_trajectory_prac_pipreview false; sv_grenade_trajectory_prac_trailtime 0; sv_grenade_trajectory_time_spectator 4; mp_respawn_on_death_t 1; mp_respawn_on_death_ct 1;mp_roundtime 9999;cl_showpos 1;ent_messages_draw 2;bot_dont_shoot 1;mp_startmoney 16000;mp_buy_anywhere 1;sv_infinite_ammo 1;mp_restartgame 1;buddha 1;cl_ent_picker 1;radarvisdistance 99999;bind n toggle mat_fullbright 0 1;sv_autobunnyhopping 1;sv_enablebunnyhopping 1;mp_drop_knife_enable 1;
+bind I toggle host_framerate 0.1 0;bind alt noclip;
+
+
+sv_cheats 1;mp_roundtime 9999;cl_showpos 1;ent_messages_draw 2;bot_dont_shoot 1;mp_startmoney 16000;mp_buy_anywhere 1;mp_buytime 9999;sv_infinite_ammo 1;mp_restartgame 1;buddha 1;cl_ent_picker 1;radarvisdistance 99999;
+
+ze_loom      			城市掠夺者
+ze_otakuroom_pt     		御宅房
+ze_silent_hill_blackblood   血之镜
+ze_silent_hill_3_dawn     	黎明
+ze_starwars_v2fix       	星球大战
+ze_overlord          3259318150            骨王
+ze  slicoo  文件  3264412150
+3347081341 虚空
+ze sam 刀剑 3217227843
+3521710695 只狼
+3600074056   ze_bang_dream_mygo
+
+屎图 3304076935  某6+9（反编译爆内存）
+
+13375200078 猫 电话
+
+host_workshop_map 3613283950
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3613283950
+exec server
+-perfectworld 国服
+
+connect 60.215.128.73:23008
+
+thirdperson
+
+bot_add_ct            
+bot_add_t                【重复输入增加数量】
+
+bot_stop 1               【使bot不动】
+bot_place                【将一个bot放置自身位置】
+
+bot_kill                 【处死电脑】
+
+多人跑图 输入status      列 ：connect [A:1:2048215043:47481] (90275923937806339)  加房间号
+
+map ze_地图名字  进入地图                【必须设置内控制台设置为开启按~键呼出控制台】
+----------------------------------------------------------------------------------
+mp_restartgame 1                           【重启本局游戏】
+end_round                                        【快速重启本局游戏】｛常用｝
+
+
+sv_autobunnyhopping 1;
+sv_enablebunnyhopping 1;
+sv_airaccelerate 999;
+
+
+备用
+sv_cheats 1;mp_roundtime 9999;cl_showpos 1;ent_messages_draw 2;bot_dont_shoot 1;mp_startmoney 16000;mp_buy_anywhere 1;mp_buytime 9999;sv_infinite_ammo 1;mp_restartgame 1;buddha 1;cl_ent_picker 1;radarvisdistance 99999;bind alt noclip;bind j bot_place;bind n toggle mat_fullbright 0 1;bind 8 bot_add_ct;bind 9 bot_add_t;sv_infinite_ammo 1
+
+sv_cheats 1;mp_roundtime 9999;cl_showpos 1;ent_messages_draw 2;bot_stop 1;mp_startmoney 16000;mp_buy_anywhere 1;mp_buytime 9999;sv_infinite_ammo 1;mp_restartgame 1;buddha 1;cl_ent_picker;radarvisdistance 99999;bind alt noclip;bind i toggle host_framerate 0.1 0;sv_autobunnyhopping 1;sv_enablebunnyhopping 1;sv_airaccelerate 999;
+
+sv_cheats 1; mp_warmup_offline_enabled false; mp_roundtime_defuse 60; mp_maxrounds 30; mp_ignore_round_win_conditions 1; mp_team_intro_time 0; mp_freezetime 0; mp_restartgame "1"; bot_kick; bot_stop 1; mp_autoteambalance 0; mp_limitteams 8; mp_autokick 0; sv_alltalk 1; mp_maxmoney 999999; mp_startmoney 999999; mp_buytime "999999"; mp_buy_anywhere 1;sv_regeneration_force_on true; buddha 1; sv_infinite_ammo 1; ammo_grenade_limit_total 5;sv_grenade_trajectory_prac_pipreview false; sv_grenade_trajectory_prac_trailtime 0; sv_grenade_trajectory_time_spectator 4; mp_respawn_on_death_t 1; mp_respawn_on_death_ct 1;mp_roundtime 9999;cl_showpos 1;ent_messages_draw 2;bot_dont_shoot 1;mp_startmoney 16000;mp_buy_anywhere 1;mp_buytime 9999;sv_infinite_ammo 1;mp_restartgame 1;buddha 1;cl_ent_picker 1;radarvisdistance 99999;
+
+
+
+
+
+
+
+
+
+
+【常用绑键】
+按at1飞行:bind alt noclip;
+按鼠标侧键5时间加速:bind mouse5 toggle host_framerate 0.1 0:        bind I toggle host_timescale 100 1;
+按j把机器人放在这里:bind j bot_place;
+按n打开小太阳:bind n toggle mat_fullbright 0 1;
+按8添加警察机器人：bind 8 bot_add_ct;
+按9添加土匪机器人：bind 9 bot_add_t;
+
+
+
+【CS2僵戶逃跑】CS2 Source2Viewer跑图 9.26 CS2ZE跑图
+
+1.下载Source2Viewer(网址:https://valveresourceformat.github.io/
+)
+
+2.启动steam进入CS2创意工坊订阅需要跑图的地图。
+
+3.打开Source2Viewer,在搜索栏搜索你需要跑图的地图
+
+4. 依次打开
+ze_obj_rampage_v1_2-+maps -* ze_obj_rampage_v1_2.vpk-+ze_obj_rampa
+ge_vl_2. vmap_c
+
+func_button: 按钮
+trigger_once:一次性触发
+trigger hurt:伤害范围
+func door: 1]
+func breakable: *
+trigger_push:推力范围
+trigger_teleport: 传送范围
+prop_physics_override: 旅转
+func_door_rotating: 旋转门
+func_rot_button
+func_rotating
